@@ -1,0 +1,26 @@
+{
+  "name": "brm-build",
+  "version": "1.0.0",
+  "description": "Book record management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palacharlabhargavi/BRM-Build.git"
+  },
+  "author": "Bhargavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Palacharlabhargavi/BRM-Build/issues"
+  },
+  "homepage": "https://github.com/Palacharlabhargavi/BRM-Build#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
